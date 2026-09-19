@@ -1,0 +1,121 @@
+{
+  "contact": {
+    "name": "Pushpak Jaiswal",
+    "title": "Full-Stack Software Engineer",
+    "email": "pushpakmjaiswal@gmail.com",
+    "phone": "+91 8484807511",
+    "location": "Chhatrapati Sambhajinagar, Maharashtra, India"
+  },
+  "links": [
+    { "label": "linkedin.com/in/pushpak-jaiswal", "url": "https://linkedin.com/in/pushpak-jaiswal", "kind": "linkedin" },
+    { "label": "github.com/PUSHPAK-JAISWAL", "url": "https://github.com/PUSHPAK-JAISWAL", "kind": "github" },
+    { "label": "pushpak-jaiswal.github.io", "url": "https://pushpak-jaiswal.github.io", "kind": "portfolio" }
+  ],
+  "summary_seed": "2+ years building web apps, APIs, and microservices in Java/Python/Spring Boot/React; open-source maintainer scaling repos to 1300+ stars.",
+  "skills": [
+    { "category": "Programming Languages", "items": ["Java", "Python", "JavaScript", "TypeScript", "C", "R", "Bash", "Vlang (V Programming Language)"] },
+    { "category": "Frameworks & Libraries", "items": ["Spring Boot", "Spring Security", "React.js", "React Native", "NestJs", "FastAPI", "Expo", "Tailwind CSS", "TensorFlow", "Scikit-learn", "Vweb (V Programming Language web framework)"] },
+    { "category": "Databases", "items": ["SQL", "MySQL", "PostgreSQL", "NoSQL (MongoDB, Redis, CouchDB, ChromaDB)"] },
+    { "category": "Tools & DevOps", "items": ["Git", "GitHub", "Docker", "Apache Kafka", "Linux (Ubuntu)", "Maven", "Gradle", "NPM", "Vim"] },
+    { "category": "Cloud & CI/CD", "items": ["GitHub Actions", "Docker Hub", "GraalVM", "CI/CD Pipelines", "Cloud Infrastructure Management", "JSON Web Tokens (JWT)"] },
+    { "category": "Architecture & Methodologies", "items": ["RESTful API Design", "Microservices Architecture", "Distributed Systems", "System Design", "Cloud Architecture", "Enterprise Architecture", "Object-Oriented Programming (OOP)", "Agile", "Software Development Life Cycle (SDLC)"] },
+    { "category": "Testing", "items": ["JUnit", "Postman", "H2", "Unit Testing", "Test-Driven Development (TDD)", "System Testing"] }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer (Open-Source)",
+      "organization": "IBM",
+      "sub_team": "AssetOpsBench",
+      "location": "Remote",
+      "start": "Nov 2025",
+      "end": "Present",
+      "link": "",
+      "technologies": ["Java", "Python", "Docker", "GitHub Actions", "CI/CD"],
+      "facts": [
+        { "description": "Improved data reliability for the AssetOpsBench repository using Java and Python data verification pipelines; authored System Architecture Documentation for IoT model training.", "metric": "1,300+ GitHub stars", "tools_used": ["Java", "Python"] },
+        { "description": "Administered a Codabench competition, managing end-to-end project coordination, technical evaluations, and prize fund distribution.", "metric": "1,000+ participants; INR 100,000 in prize funding", "tools_used": ["Codabench"] },
+        { "description": "Designed CI/CD pipelines with GitHub Actions and structured onboarding processes; managed the contributor lifecycle across benchmarking frameworks.", "metric": "", "tools_used": ["GitHub Actions", "CI/CD"] }
+      ]
+    },
+    {
+      "title": "Contributor",
+      "organization": "TechAmigo (Open Source)",
+      "sub_team": "",
+      "location": "Remote",
+      "start": "Nov 2025",
+      "end": "Jul 2026",
+      "link": "",
+      "technologies": ["Node.js", "NPM", "RESTful APIs", "JWT", "Spring Boot", "React.js", "PostgreSQL"],
+      "facts": [
+        { "description": "Built a reusable NPM starter-kit package (create-server-startup) with RESTful API design patterns and JWT authentication.", "metric": "50% reduction in backend setup time; 4 database integrations; 50+ weekly active users", "tools_used": ["NPM", "RESTful API", "JWT"] },
+        { "description": "Managed cloud infrastructure security and platform hardening for the CPAmigo competitive coding platform, implementing zero-configuration protocols.", "metric": "500+ registered members", "tools_used": ["Helmet", "Rate Limiting", "CORS"] },
+        { "description": "Led sprint planning, System Architecture Documentation, and deployment cycles from initial scaffolding to production.", "metric": "", "tools_used": ["Spring Boot", "React.js", "PostgreSQL"] }
+      ]
+    },
+    {
+      "title": "Software & ML Intern",
+      "organization": "PWSkills",
+      "sub_team": "",
+      "location": "Remote",
+      "start": "Sep 2024",
+      "end": "Nov 2025",
+      "link": "",
+      "technologies": ["Java", "Spring Boot", "MongoDB", "React.js", "TypeScript", "Hibernate", "TensorFlow", "XGBoost", "Spring Security", "JWT"],
+      "facts": [
+        { "description": "Engineered and deployed full-stack enterprise systems including Spring Boot microservice backends and ML models.", "metric": "7 full-stack enterprise systems; 3 microservice backends; 4 ML models", "tools_used": ["Java", "Spring Boot", "MongoDB", "React.js", "Hibernate", "TensorFlow", "XGBoost"] },
+        { "description": "Secured full-stack web interfaces by building responsive frontends, applying test-driven development and unit testing practices while validating API endpoints.", "metric": "15+ API endpoints", "tools_used": ["React.js", "TypeScript", "JUnit", "Spring Security", "JWT", "Postman", "H2"] },
+        { "description": "Established curriculum benchmarks and production deployment standards after architectures were selected across cohorts.", "metric": "2 primary architectures; 5,000+ students impacted", "tools_used": ["Java", "Spring Boot"] }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "PushCode",
+      "description": "A distributed, AI-enhanced code editor with secure, sandboxed execution and real-time diagnostics.",
+      "link": "",
+      "technologies": ["Spring Boot", "Docker", "LangChain4j", "React.js", "MongoDB", "TypeScript", "Python", "GraalVM", "Redis", "WebSockets"],
+      "facts": [
+        { "description": "Architected a 4-service microservices system using Java, Spring Boot, and Docker-in-Docker (DinD) for sandbox isolation.", "metric": "~40% reduction in service startup time (GraalVM native builds); zero host breaches during development and testing", "tools_used": ["Java", "Spring Boot", "Docker-in-Docker", "GraalVM"] },
+        { "description": "Integrated an agentic Groq / Large Language Model (LLM) API via LangChain4j for automatic language detection, streaming error-correcting code over WebSockets.", "metric": "under 150ms latency", "tools_used": ["Groq", "LangChain4j", "WebSockets"] }
+      ]
+    },
+    {
+      "name": "AgroML-Hub",
+      "description": "A polyglot machine learning platform using Kafka to process real-time agricultural telemetry data.",
+      "link": "",
+      "technologies": ["FastAPI", "TensorFlow", "XGBoost", "Spring Boot", "Kafka", "Redis"],
+      "facts": [
+        { "description": "Benchmarked ML models and implemented TF-Lite edge deployment.", "metric": "4 distinct ML models; ~60% reduction in inference overhead", "tools_used": ["TensorFlow", "XGBoost", "TF-Lite"] },
+        { "description": "Built a dual-backend system using FastAPI for prediction delivery and Spring Boot for user authentication; managed pull requests with enforced security gates.", "metric": "under 200ms prediction delivery; 95+ pull requests", "tools_used": ["FastAPI", "Spring Boot"] }
+      ]
+    },
+    {
+      "name": "Awesome Industrial Datasets",
+      "description": "One of the largest open-source industrial AI dataset collections, featuring automated data engineering pipelines.",
+      "link": "",
+      "technologies": ["Python", "LLMs", "GitHub Actions", "Data Engineering"],
+      "facts": [
+        { "description": "Indexed and categorized datasets across specialized domains including Aerospace and Semiconductors, and developed an LLM-powered metadata extractor (llm_automate.py).", "metric": "176+ datasets; 10 domains; ~40% boost in tagging throughput", "tools_used": ["Python", "LLMs"] },
+        { "description": "Automated deployment workflows using GitHub Actions CI to generate a searchable HTML interface and standardized CSV reports.", "metric": "", "tools_used": ["GitHub Actions"] }
+      ]
+    }
+  ],
+  "education": [
+    { "institution": "CSMSS Chh. Shahu College of Engineering", "location": "Chhatrapati Sambhajinagar, India", "degree": "Bachelor of Technology in Computer Science and Engineering", "gpa_or_score": "CGPA: 7.5", "start": "2023", "end": "2027" },
+    { "institution": "Deogiri Junior College", "location": "Chhatrapati Sambhajinagar, India", "degree": "Higher Secondary Certificate (HSC), Science", "gpa_or_score": "Percentage: 68.5%", "start": "2021", "end": "2023" },
+    { "institution": "Podar International School", "location": "Chhatrapati Sambhajinagar, India", "degree": "Indian Certificate of Secondary Education (ICSE, Class X)", "gpa_or_score": "Percentage: 89.0%", "start": "2011", "end": "2021" }
+  ],
+  "certifications": [
+    { "name": "Deep Learning", "issuer": "IIT Ropar (NPTEL)", "category_word": "Certification" },
+    { "name": "Design & Analysis of Algorithms", "issuer": "IIT Kharagpur (NPTEL)", "category_word": "Certification" },
+    { "name": "Advanced Java", "issuer": "GeeksforGeeks", "category_word": "Certification" },
+    { "name": "Software Engineer", "issuer": "HackerRank", "category_word": "Certification" }
+  ],
+  "awards": [
+    { "name": "1st Place, National Paper Presentation", "venue": "K.K. Wagh, Nashik", "date": "2026" },
+    { "name": "1st Place, National Project Presentation", "venue": "K.K. Wagh, Nashik", "date": "2026" },
+    { "name": "4th Place and Yuva Bharat Award, National Ideathon", "venue": "GCE Aurangabad", "date": "2026" },
+    { "name": "3rd Place, TechnoSpark Hackathon", "venue": "MIT, CSN", "date": "2025" },
+    { "name": "3rd Place, Supernova Stellar Hackathon", "venue": "MGM University", "date": "2025" }
+  ]
+}
