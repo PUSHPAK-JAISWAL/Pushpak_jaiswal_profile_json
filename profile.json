@@ -9,7 +9,8 @@
   "links": [
     { "label": "linkedin.com/in/pushpak-jaiswal", "url": "https://linkedin.com/in/pushpak-jaiswal", "kind": "linkedin" },
     { "label": "github.com/PUSHPAK-JAISWAL", "url": "https://github.com/PUSHPAK-JAISWAL", "kind": "github" },
-    { "label": "pushpak-jaiswal.github.io", "url": "https://pushpak-jaiswal.github.io", "kind": "portfolio" }
+    { "label": "pushpak-jaiswal.github.io/portfolio-website/", "url": "https://pushpak-jaiswal.github.io/portfolio-website/", "kind": "portfolio" },
+    { "label": "hackerrank.com/profile/pushpakmjaiswal", "url": "https://www.hackerrank.com/profile/pushpakmjaiswal", "kind": "hackerrank" }
   ],
   "summary_seed": "2+ years building web apps, APIs, and microservices in Java/Python/Spring Boot/React; open-source maintainer scaling repos to 1300+ stars.",
   "skills": [
